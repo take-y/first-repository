@@ -1,2 +1,2 @@
 # first-repository
-add text it's my first add and comit
+add text it's my first add and commited
